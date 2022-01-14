@@ -1,1 +1,1 @@
-# 4g-tuananh123
+vmess://YXV0bzo1OTVkMDQ0Ni0yM2YxLTQyMzUtODg3My0wMTFkNDZjNzcyODZAc2ctZnVsbHYycmF5LnJhY2V2cG4uY29tOjQ0Mw?remarks=Free%2016/12&obfsParam=livestream2.tv360.vn&path=/racevpn&obfs=websocket&tls=1&allowInsecure=1&alterId=0
